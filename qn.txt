@@ -1,0 +1,21 @@
+1. Create a form element with at least 3 different form elements and add a submit button.
+
+2. Create an external js file and link it to the main HTML document and on click of any button created, show an alert saying “Thank You”.
+
+3. Create a basic HTML document and create three divs and add different background colors to each div using internal css, inline css and external css.
+
+4. Create a HTML document and add a table element with at least two rows and three columns. Add border width as 1 for the columns.
+
+5. Create a HTML document and create two divs and add ordered lists and unordered lists on the two divs with at least four list items on each.
+
+6. Create a HTML document and add a table with two columns one for the name and another for any image. Add at least two rows.
+
+7. Create a form with email, password, country name with at least 5 country names and make “Nepal” selected by default.
+
+8. Create an external js file and on click of the submit button display the selected country name from question number 3 on alert.
+
+9. Create a HTML file and add an ordered list with any two social media site names and add a link to their respective urls. The link should open on a new page.
+
+10. Using an external CSS file, change the font size and font family of the list items from question number 1.
+
+11.Create an external js file and on click of the submit button change the button text from question number 3 to Submitted and display the text from textarea on alert.
